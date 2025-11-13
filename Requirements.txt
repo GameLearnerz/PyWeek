@@ -1,0 +1,18 @@
+A Virtual Environment at 
+Python -m venv venv
+venv/Scripts/activate
+
+
+Pip Installs
+
+NumPy 
+Pandas
+Selenium
+WebDriver-Manager
+Opencv-python
+Cv2
+Ultralytics
+Mediapipe
+FastAPI
+Pydantic
+Streamlit
